@@ -44,6 +44,6 @@
 
         
 
-
+ls
 
 data set https://www.kaggle.com/datasets/anurag629/credit-card-fraud-transaction-data/data
