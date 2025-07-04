@@ -31,3 +31,6 @@ o	Selección de variables
 o	Entrenamiento y validación de modelos
 o	Evaluación y despliegue
 Porque damos tópicos de finanzas
+
+
+data set https://www.kaggle.com/datasets/anurag629/credit-card-fraud-transaction-data/data
